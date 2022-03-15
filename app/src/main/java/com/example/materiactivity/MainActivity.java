@@ -13,7 +13,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends Activity implements OnClickListener{
-    private String[][]dataUser={{"Yoga","ADMIN","yoga febriatala"},{"user1","password","yoga2"},{"user2","password2","yoga4"}};
+    private String[][]dataUser={{"Yoga","ADMIN","yoga febriatala"},{"user1","password","yoga2"}};
     private EditText UserNameET,PasswordET;
     private final int SUCCESS=1;
 

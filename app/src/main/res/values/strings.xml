@@ -4,4 +4,5 @@
     <string name="PasswordEditText">Isi Password</string>
     <string name="loginbutton">login</string>
     <string name="tutupbutton">Close program</string>
+    <string name="password">Password</string>
 </resources>
